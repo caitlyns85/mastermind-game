@@ -21,7 +21,7 @@ This repository also includes step-by-step example scripts showing each stage of
 ---
 
 ## File Structure
-
+```
 mastermind/
 │
 ├── src/
@@ -33,7 +33,7 @@ mastermind/
 │       └── stage9.py
 │
 └── README.md
-
+```
 ---
 
 ## Setup and Installation
